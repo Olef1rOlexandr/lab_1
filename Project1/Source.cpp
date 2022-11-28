@@ -6,6 +6,6 @@ int main()
 {
 	setlocale(LC_ALL, "ukr");
 
-	cout << "Õåðñîí öå Óêðà¿íà!" << endl;
+	cout << "Ð¥ÐµÑ€ÑÐ¾Ð½ Ñ†Ðµ Ð£ÐºÑ€Ð°Ñ—Ð½Ð°!" << endl;
 
 }
